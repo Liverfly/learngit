@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Boss id stupid.
 hello test branch!!
 Creating a new branch is quick and  simple.
+Other test...
